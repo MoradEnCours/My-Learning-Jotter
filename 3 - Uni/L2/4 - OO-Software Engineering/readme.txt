@@ -1,0 +1,1 @@
+This section includes a memoriam of the knowledge I gained, the exercises I completed, and the laboratory code I experimented with during my studies in the course entitled as Object Oriented Software Engineering.
