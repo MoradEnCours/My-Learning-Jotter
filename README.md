@@ -6,7 +6,7 @@ Also, I have yet to fully establish a proper organisation to keep the work as vi
 
 But, for now, I consider having a single repository to record my tutorial-based learning to be better than multiple repositories in terms of accessibility: all material is nested and thus easily findable in a single location. Current mindset: Only make a new repository for a properly unique project. 
 
-
+# How I have laid out my jotter (WIP)
 
 
 
